@@ -1,5 +1,9 @@
 # Phishing para captura de senhas do Google
 
+
+>Este é apenas um desafio de projeto em cibersegurança.
+
+
 ### Ferramentas
 
 - Kali Linux
@@ -14,7 +18,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Web Templates ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- Template para phishing: Google
+- Template para phishing: ``` Google ```
 
 ### Resutados
 
